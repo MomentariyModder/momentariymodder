@@ -5,12 +5,17 @@
 <p><a style="text-align: left;"><span style="font-size: 18px;">Hi, my name is MomentariyModder, or as my friends and acquaintances often call me, Modder. I'm 19 years old, and I'm from Belarus (a small country in Europe, bordering Russia and Ukraine). I also like to create almost any content for Minecraft, i.e.: mods, maps, resource packs, servers.</span></a></p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <p>
-<a href="http://momentariymodder.xyz/projects/ma.html"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/momentariymodderapplications/avatar.png" width="25%" /></a>
-<a href="http://momentariymodder.xyz/projects/nvh.html"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/night_vision_helmets/avatar.png" width="25%" /></a>
-<a href="http://momentariymodder.xyz/projects/cmd.html"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_music_discs/avatar.png" width="25%" /></a>
-<a href="http://momentariymodder.xyz/projects/cse.html"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_spawn_eggs/avatar.png" width="25%" /></a>
-<a href="http://momentariymodder.xyz/projects/hg.html"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/hungerpriview/avatar.png" width="25%" /></a>
-<a href="http://momentariymodder.xyz/projects/ianda.html"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/industrial_and_adventure/avatar.png" width="25%" /></a>
-<a href="http://momentariymodder.xyz/projects/sc.html"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/storage_crate/avatar.png" width="25%" /></a>
+<a>Supported:</a><br>
+<a href="https://momentariymodder.xyz/projects/applications"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/momentariymodderapplications/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.xyz/projects/night-vision-helmets"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/night_vision_helmets/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.xyz/projects/created-music-discs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_music_discs/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.xyz/projects/created-spawn-eggs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_spawn_eggs/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.xyz/projects/its-all-about-money-reload"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/its_all_about_money_reload/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.xyz/projects/hunger-priview"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/hungerpriview/avatar.png" width="25%" /></a>
+</p>
+<p>
+<a>Discontinued:</a><br>
+<a href="https://momentariymodder.xyz/projects/industrial-and-adventure"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/industrial_and_adventure/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.xyz/projects/storage-crate"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/storage_crate/avatar.png" width="25%" /></a>
 </p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
