@@ -7,6 +7,7 @@
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <p>
 <p><span style="font-size: 24px;"><strong>📦 Projects</strong></span></p>
+<p>
 <a>️️✔️ Supported:</a><br>
 <a href="https://momentariymodder.xyz/projects/applications"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/momentariymodderapplications/avatar.png" width="25%" /></a>
 <a href="https://momentariymodder.xyz/projects/night-vision-helmets"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/night_vision_helmets/avatar.png" width="25%" /></a>
