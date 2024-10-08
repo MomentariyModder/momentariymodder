@@ -22,22 +22,22 @@
 <p><span style="font-size: 24px;"><strong>Projects</strong></span></p>
 <p>
 <a>️️✔️ Supported:</a><br>
-<a href="https://momentariymodder.xyz/projects/applications"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/momentariymodderapplications/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/night-vision-helmets"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/night_vision_helmets/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/created-music-discs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_music_discs/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/created-spawn-eggs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_spawn_eggs/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/its-all-about-money-reload"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/its_all_about_money_reload/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/hunger-priview"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/hungerpriview/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/applications"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/momentariymodderapplications/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/night-vision-helmets"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/night_vision_helmets/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/created-music-discs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_music_discs/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/created-spawn-eggs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_spawn_eggs/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/its-all-about-money-reload"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/its_all_about_money_reload/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/hunger-priview"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/hungerpriview/avatar.png" width="25%" /></a>
 </p>
 <p>
 <a>❌ Discontinued:</a><br>
-<a href="https://momentariymodder.xyz/projects/momentariy-core"><img src="https://momentariymodder.xyz/img/projects/momentariycore/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/momentariy-core2"><img src="https://momentariymodder.xyz/img/projects/momentariycore2/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/glass-doors"><img src="https://momentariymodder.xyz/img/projects/glass_doors/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/perodiumcraft"><img src="https://momentariymodder.xyz/img/projects/perodiumcraft/perodiumcraft2.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/spongebob-squarepants-reload"><img src="https://momentariymodder.xyz/img/projects/spongebobsquarepentsreload/spongebobsquepents.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/window-doors-and-trapdoors"><img src="https://momentariymodder.xyz/img/projects/window_doors_and_trapdoors/window_doors_and_trapdoors_avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/industrial-and-adventure"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/industrial_and_adventure/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.xyz/projects/storage-crate"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/storage_crate/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/momentariy-core"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/momentariycore/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/momentariy-core2"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/momentariycore2/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/glass-doors"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/glass_doors/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/perodiumcraft"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/perodiumcraft/perodiumcraft2.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/spongebob-squarepants-reload"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/spongebobsquarepentsreload/spongebobsquepents.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/window-doors-and-trapdoors"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/window_doors_and_trapdoors/window_doors_and_trapdoors_avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/industrial-and-adventure"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/industrial_and_adventure/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.netlify.app/projects/storage-crate"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/storage_crate/avatar.png" width="25%" /></a>
 </p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
