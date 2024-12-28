@@ -1,4 +1,4 @@
-<p><strong><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/themes/halloween/banner.png" alt=""/></strong></p>
+<p><strong><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/themes/christmas/banner.png" alt=""/></strong></p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <p align="center">
 <a href="https://momentariymodder.netlify.app/" target="_blank" rel="noopener noreferrer"><img title="Website" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/website.png" alt="Website" width="7%" /></a>
@@ -6,6 +6,7 @@
 <a href="https://discord.com/invite/9XqgjRd" target="_blank" rel="noopener noreferrer"><img title="Discord" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/discord.png" alt="Discord" width="7%" /></a>
 <a href="https://t.me/momentariymoddertgk" target="_blank" rel="noopener noreferrer"><img title="Telegram-channel (RU)" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/tg.png" alt="Discord" width="7%" /></a>
 <a href="https://twitter.com/momentariymoder"><img title="X/Twitter" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/x.png" alt="X/Twitter" width="7%" /></a>
+<a href="https://bsky.app/profile/momentariymodder.bsky.social"><img title="Bluesky" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/bluesky.png" alt="Bluesky" width="7%" /></a>
 <a href="https://www.curseforge.com/members/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="CurseForge" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/curseforge.png" alt="CurseForge" width="7%" /></a>
 <a href="https://modrinth.com/user/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="Modrinth" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/Modrinth.png" alt="Modrinth" width="7%" /></a>
 <a href="https://github.com/MomentariyModder" target="_blank" rel="noopener noreferrer"><img title="GitHub" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/GitHub.png" alt="GitHub" width="7%" /></a>
