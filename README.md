@@ -1,4 +1,4 @@
-<p><strong><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/themes/christmas/banner.png" alt=""/></strong></p>
+<p><strong><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/themes/standard/banner.png" alt=""/></strong></p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <p align="center">
 <a href="https://momentariymodder.netlify.app/" target="_blank" rel="noopener noreferrer"><img title="Website" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/website.png" alt="Website" width="7%" /></a>
