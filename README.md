@@ -17,7 +17,7 @@
 <a href="https://www.donationalerts.com/r/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="DonationAlerts" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/da.png" alt="Discord" width="7%" /></a>
 </p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
-<p><a style="text-align: left;"><span style="font-size: 18px;">Hi, my name is MomentariyModder, or as my friends and acquaintances often call me, Modder. I'm 19 years old, and I'm from Belarus (a small country in Europe, bordering Russia and Ukraine). I also like to create almost any content for Minecraft, i.e.: mods, maps, resource packs, servers.</span></a></p>
+<p><a style="text-align: left;"><span style="font-size: 18px;">Hi, my name is MomentariyModder, or as my friends and acquaintances often call me, Modder. I'm 20 years old, and I'm from Belarus (a small country in Europe, bordering Russia and Ukraine). I also like to create almost any content for Minecraft, i.e.: mods, maps, resource packs, servers.</span></a></p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <p>
 <p><span style="font-size: 24px;"><strong>Projects</strong></span></p>
