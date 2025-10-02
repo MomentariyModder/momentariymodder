@@ -1,3 +1,4 @@
+<p><strong><a href="https://billing.kinetichosting.net/aff.php?aff=293"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/kinetic_new.png" /></a></strong></p>
 <p><strong><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/themes/standard/banner.png" alt=""/></strong></p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <p align="center">
@@ -23,12 +24,9 @@
 <p><span style="font-size: 24px;"><strong>Projects</strong></span></p>
 <p>
 <a>️️✔️ Supported:</a><br>
-<a href="https://momentariymodder.com/projects/applications"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/momentariymodderapplications/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.com/projects/night-vision-helmets"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/night_vision_helmets/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.com/projects/applications"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/applications/avatar.png" width="25%" /></a>
 <a href="https://momentariymodder.com/projects/created-music-discs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_music_discs/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.com/projects/created-spawn-eggs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/created_spawn_eggs/avatar.png" width="25%" /></a>
 <a href="https://momentariymodder.com/projects/its-all-about-money-reload"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/its_all_about_money_reload/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.com/projects/hunger-priview"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/hungerpriview/avatar.png" width="25%" /></a>
 </p>
 <p>
 <a>❌ Discontinued:</a><br>
@@ -38,7 +36,10 @@
 <a href="https://momentariymodder.com/projects/perodiumcraft"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/perodiumcraft/perodiumcraft2.png" width="25%" /></a>
 <a href="https://momentariymodder.com/projects/spongebob-squarepants-reload"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/spongebobsquarepentsreload/spongebobsquepents.png" width="25%" /></a>
 <a href="https://momentariymodder.com/projects/window-doors-and-trapdoors"><img src="https://raw.githubusercontent.com/MomentariyModder/momentariymodder.github.io/refs/heads/main/img/projects/window_doors_and_trapdoors/window_doors_and_trapdoors_avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.com/projects/industrial-and-adventure"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/industrial_and_adventure/avatar.png" width="25%" /></a>
-<a href="https://momentariymodder.com/projects/storage-crate"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/projects/storage_crate/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.com/projects/industrial-and-adventure"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/olds/projects/industrial_and_adventure/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.com/projects/storage-crate"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/olds/projects/storage_crate/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.com/projects/night-vision-helmets"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/olds/projects/night_vision_helmets/25.12.2023/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.com/projects/created-spawn-eggs"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/olds/projects/created_spawn_eggs/01.03.2024/avatar.png" width="25%" /></a>
+<a href="https://momentariymodder.com/projects/hunger-priview"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/olds/projects/hungerpriview/avatar.png" width="25%" /></a>
 </p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
