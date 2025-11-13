@@ -8,8 +8,9 @@
 <a href="https://t.me/momentariymoddertgk" target="_blank" rel="noopener noreferrer"><img title="Telegram-channel (RU)" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/tg.png" alt="Discord" width="7%" /></a>
 <a href="https://twitter.com/momentariymoder"><img title="X/Twitter" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/x.png" alt="X/Twitter" width="7%" /></a>
 <a href="https://bsky.app/profile/momentariymodder.bsky.social"><img title="Bluesky" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/bluesky.png" alt="Bluesky" width="7%" /></a>
-<a href="https://www.curseforge.com/members/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="CurseForge" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/curseforge.png" alt="CurseForge" width="7%" /></a>
 <a href="https://modrinth.com/user/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="Modrinth" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/Modrinth.png" alt="Modrinth" width="7%" /></a>
+<a href="https://www.curseforge.com/members/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="CurseForge" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/curseforge.png" alt="CurseForge" width="7%" /></a>
+<a href="https://modifold.com/u/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="Modifold" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/modifold.png" alt="Modifold" width="7%" /></a>
 <a href="https://github.com/MomentariyModder" target="_blank" rel="noopener noreferrer"><img title="GitHub" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/GitHub.png" alt="GitHub" width="7%" /></a>
 <a href="https://patreon.com/momentariymodder"><img title="Patreon" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/patreon.png" alt="Patreon" width="7%" /></a>
 <a href="https://boosty.to/momentariymodder"><img title="Boosty" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/boosty.png" alt="Boosty" width="7%" /></a>
@@ -18,7 +19,7 @@
 <a href="https://www.donationalerts.com/r/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="DonationAlerts" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/da.png" alt="Discord" width="7%" /></a>
 </p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
-<p><a style="text-align: left;"><span style="font-size: 18px;">Hi, my name is MomentariyModder, or as my friends and acquaintances often call me, Modder. I'm 20 years old, and I'm from Belarus (a small country in Europe, bordering Russia and Ukraine). I also like to create almost any content for Minecraft, i.e.: mods, maps, resource packs, servers.</span></a></p>
+<p><a style="text-align: left;"><span style="font-size: 18px;">Hello, my name is MomentariyModder, or, as my friends and acquaintances often call me, Modder. I am passionate about creating mods and servers, and I used to work with modpacks and resource packs.</span></a></p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <p>
 <p><span style="font-size: 24px;"><strong>Projects</strong></span></p>
