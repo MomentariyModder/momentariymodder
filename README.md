@@ -2,15 +2,14 @@
 <p><strong><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/themes/standard/banner.png" alt=""/></strong></p>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <p align="center">
-<a href="https://momentariymodder.com/" target="_blank" rel="noopener noreferrer"><img title="Website" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/website.png" alt="Website" width="7%" /></a>
-<a href="https://momentariymodder.com/wiki" target="_blank" rel="noopener noreferrer"><img title="Wiki" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/wiki.png" alt="Wiki" width="7%" /></a>
+<a href="https://main.momentariymodder.com/" target="_blank" rel="noopener noreferrer"><img title="Website" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/website.png" alt="Website" width="7%" /></a>
+<a href="https://main.momentariymodder.com/wiki" target="_blank" rel="noopener noreferrer"><img title="Wiki" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/wiki.png" alt="Wiki" width="7%" /></a>
 <a href="https://discord.com/invite/9XqgjRd" target="_blank" rel="noopener noreferrer"><img title="Discord" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/discord.png" alt="Discord" width="7%" /></a>
 <a href="https://t.me/momentariymoddertgk" target="_blank" rel="noopener noreferrer"><img title="Telegram-channel (RU)" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/tg.png" alt="Discord" width="7%" /></a>
 <a href="https://twitter.com/momentariymoder"><img title="X/Twitter" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/x.png" alt="X/Twitter" width="7%" /></a>
 <a href="https://bsky.app/profile/momentariymodder.bsky.social"><img title="Bluesky" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/bluesky.png" alt="Bluesky" width="7%" /></a>
 <a href="https://modrinth.com/user/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="Modrinth" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/Modrinth.png" alt="Modrinth" width="7%" /></a>
 <a href="https://www.curseforge.com/members/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="CurseForge" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/curseforge.png" alt="CurseForge" width="7%" /></a>
-<a href="https://modifold.com/u/momentariymodder" target="_blank" rel="noopener noreferrer"><img title="Modifold" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/modifold.png" alt="Modifold" width="7%" /></a>
 <a href="https://github.com/MomentariyModder" target="_blank" rel="noopener noreferrer"><img title="GitHub" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/GitHub.png" alt="GitHub" width="7%" /></a>
 <a href="https://patreon.com/momentariymodder"><img title="Patreon" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/patreon.png" alt="Patreon" width="7%" /></a>
 <a href="https://boosty.to/momentariymodder"><img title="Boosty" src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/links/boosty.png" alt="Boosty" width="7%" /></a>
